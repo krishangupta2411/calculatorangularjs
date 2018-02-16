@@ -1,2 +1,2 @@
 # calculatorangularjs
-simple calculator with angular js
+simple calculator with angular js by krishan

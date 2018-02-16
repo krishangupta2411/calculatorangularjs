@@ -1,0 +1,19 @@
+{
+  "name": "calculatorangularjs",
+  "version": "1.0.0",
+  "description": "simple calculator",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krishangupta2411/calculatorangularjs.git"
+  },
+  "author": "krishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krishangupta2411/calculatorangularjs/issues"
+  },
+  "homepage": "https://github.com/krishangupta2411/calculatorangularjs#readme"
+}
